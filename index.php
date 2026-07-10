@@ -21,7 +21,7 @@ $result = mysqli_query($mysqli, $query);
 <!DOCTYPE html> 
 <html> 
 <head> 
-    <title>Sistem Informasi Manajemen RS - Data Alat</title> 
+    <title>SIMANTAN - Sistem Informasi Manajemen Peralatan Kesehatan</title> 
     <style> 
         /* Reset & Base Style */
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -185,7 +185,7 @@ $result = mysqli_query($mysqli, $query);
 <body> 
 
     <div class="container">
-        <h2>🏥 Sistem Informasi Manajemen RS - Data Alat 🩺</h2>
+        <h2>🏥 SIMANTAN - Sistem Informasi Manajemen Peralatan Kesehatan 🩺</h2>
 
         <div class="top-bar">
             <a href="tambah_alat.php" class="btn-tambah">➕ Tambah Alat Baru 💉</a>
